@@ -68,9 +68,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Configure Linter only in this project**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- **Add a Html header**
+- **Configure Linter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,11 +78,6 @@
 In order to run this project you need:
   First we need a code editor like as VS code.
   Create HTML and CSS file and configure Linter
-
-### Usage
-
-To run the project, execute the following command:
-
 
 ### Run tests
 
