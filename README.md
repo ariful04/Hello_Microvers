@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-
-
 <div align="center">
   
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -10,8 +8,6 @@
   <h3><b>Microverse README Template</b></h3>
 
 </div>
-
-
 
 # 📗 Table of Contents
 
@@ -47,24 +43,24 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
+    
 
 <details>
-  <summary>HTML/summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="#">html</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>CSS/summary>
+  <summary>CSS</summary>
   <ul>
     <li><a href="#">css</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Linter/summary>
+<summary>Linter</summary>
   <ul>
     <li><a href="#">linter</a></li>
   </ul>
@@ -97,9 +93,6 @@ To run tests, run the following command:
   
   npm install --save-dev hint@7.x
   
-  npx hint .
-  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-  
 ### Deployment
 
 This project not deployed yet.
@@ -113,10 +106,6 @@ This project not deployed yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
@@ -124,8 +113,6 @@ This project not deployed yet.
 
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
