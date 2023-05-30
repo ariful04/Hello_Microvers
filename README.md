@@ -2,14 +2,15 @@
 
 
 
-  
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
+
+</div>
+
 
 
 # 📗 Table of Contents
@@ -36,11 +37,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="about-project"></a>
+# 📖 [Hello Microverse project] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-This project build for test linters
+**[Hello Microverse]** is a day 2 project where we learned about Linter configuration.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,48 +50,47 @@ This project build for test linters
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>HTML</summary>
+  <summary>HTML/summary>
   <ul>
-    <li><a href="#/">html</a></li>
+    <li><a href="#">html</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>CSS</summary>
+  <summary>CSS/summary>
   <ul>
     <li><a href="#">css</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Linter</summary>
+<summary>Linter/summary>
   <ul>
-    <li><a href="#">Linter</a></li>
+    <li><a href="#">linter</a></li>
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between key features of the application.
+> Describe between 1-3 key features of the application.
 
-- **[In this project I learned how to use Linter]**
+- **[Configure Linter only in this project]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]([https://google.com](https://github.com/ariful04/Hello_Microvers))
+- [Live Demo Link](github.com/ariful04/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -101,14 +101,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+  Create HTML and CSS file and configure Linter
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -119,6 +113,7 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
+
 
 
 ### Usage
@@ -136,14 +131,15 @@ To run tests, run the following command:
 ### Deployment
 
 You can deploy this project using:
-
+  
+  Use HTML, CSS, Linter
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors">Ariful</a>
 
 > Mention all of the collaborators of this project.
 
@@ -152,22 +148,10 @@ You can deploy this project using:
 - GitHub: [@Ariful](https://github.com/ariful04)
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -187,7 +171,6 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -197,7 +180,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
@@ -213,8 +195,9 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
