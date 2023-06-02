@@ -97,7 +97,7 @@ This project not deployed yet.
 
 ## 👥 Authors <a name="authors">Ariful</a>
     
-    - GitHub: [@Ariful](https://github.com/ariful04)
+ - Github :[@Ariful](https://github.com/ariful04)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
