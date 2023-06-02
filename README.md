@@ -101,7 +101,7 @@ This project not deployed yet.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
     
-    I am thankful to Microverse for providing me with the opportunity to fully realize my potential through ongoing learning and     practical challenges. I would like to express my deep appreciation to my Pair Coding partners.
+I am thankful to Microverse for providing me with the opportunity to fully realize my potential through ongoing learning and     practical challenges. I would like to express my deep appreciation to my Pair Coding partners.
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
